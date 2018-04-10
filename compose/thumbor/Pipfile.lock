@@ -1,0 +1,128 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "37e0c4c838285fe2d29cf02a3afa31caa9ff936f46dc81fc2ee8a9c782aae20c"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "0",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "3.16.0-4-amd64",
+            "platform_system": "Linux",
+            "platform_version": "#1 SMP Debian 3.16.48-1 (2017-09-28)",
+            "python_full_version": "2.7.9",
+            "python_version": "2.7",
+            "sys_platform": "linux2"
+        },
+        "pipfile-spec": 6,
+        "requires": {},
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "http://mirrors.aliyun.com/pypi/simple/",
+                "verify_ssl": false
+            }
+        ]
+    },
+    "default": {
+        "argparse": {
+            "hashes": [],
+            "version": "==1.4.0"
+        },
+        "backports-abc": {
+            "hashes": [],
+            "version": "==0.5"
+        },
+        "botocore": {
+            "hashes": [],
+            "version": "==1.5.95"
+        },
+        "certifi": {
+            "hashes": [],
+            "version": "==2017.11.5"
+        },
+        "derpconf": {
+            "hashes": [],
+            "version": "==0.8.1"
+        },
+        "docutils": {
+            "hashes": [],
+            "version": "==0.14"
+        },
+        "futures": {
+            "hashes": [],
+            "version": "==3.2.0"
+        },
+        "jmespath": {
+            "hashes": [],
+            "version": "==0.9.3"
+        },
+        "libthumbor": {
+            "hashes": [],
+            "version": "==1.3.2"
+        },
+        "numpy": {
+            "hashes": [],
+            "version": "==1.13.3"
+        },
+        "opencv-python": {
+            "hashes": [],
+            "version": "==3.3.0.10"
+        },
+        "pexif": {
+            "hashes": [],
+            "version": "==0.15"
+        },
+        "pillow": {
+            "hashes": [],
+            "version": "==3.4.2"
+        },
+        "pycrypto": {
+            "hashes": [],
+            "version": "==2.6.1"
+        },
+        "pycurl": {
+            "hashes": [],
+            "version": "==7.43.0"
+        },
+        "python-dateutil": {
+            "hashes": [],
+            "version": "==2.6.1"
+        },
+        "pytz": {
+            "hashes": [],
+            "version": "==2017.3"
+        },
+        "singledispatch": {
+            "hashes": [],
+            "version": "==3.4.0.3"
+        },
+        "six": {
+            "hashes": [],
+            "version": "==1.11.0"
+        },
+        "statsd": {
+            "hashes": [],
+            "version": "==3.2.1"
+        },
+        "tc-aws": {
+            "hashes": [],
+            "version": "==6.0.5"
+        },
+        "thumbor": {
+            "hashes": [],
+            "version": "==6.3.2"
+        },
+        "tornado": {
+            "hashes": [],
+            "version": "==4.5.2"
+        },
+        "tornado-botocore": {
+            "hashes": [],
+            "version": "==1.2.0"
+        }
+    },
+    "develop": {}
+}

@@ -1,0 +1,87 @@
+2018-03-24 05:17:45,550 CRIT Supervisor running as root (no user in config file)
+2018-03-24 05:17:45,551 WARN For [program:django], redirect_stderr=true but stderr_logfile has also been set to a filename, the filename has been ignored
+2018-03-24 05:17:45,551 INFO Included extra file "/etc/supervisor/conf.d/django.conf" during parsing
+2018-03-24 05:17:45,578 INFO RPC interface 'supervisor' initialized
+2018-03-24 05:17:45,584 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-24 05:17:45,586 INFO RPC interface 'supervisor' initialized
+2018-03-24 05:17:45,590 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-03-24 05:17:45,595 INFO supervisord started with pid 1
+2018-03-24 05:17:46,627 INFO spawned: 'django' with pid 7
+2018-03-24 05:17:48,420 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-24 05:35:16,959 WARN received SIGTERM indicating exit request
+2018-03-24 05:35:16,959 INFO waiting for django to die
+2018-03-24 05:35:17,707 INFO stopped: django (exit status 0)
+2018-03-24 05:35:36,002 CRIT Supervisor running as root (no user in config file)
+2018-03-24 05:35:36,004 WARN For [program:django], redirect_stderr=true but stderr_logfile has also been set to a filename, the filename has been ignored
+2018-03-24 05:35:36,005 INFO Included extra file "/etc/supervisor/conf.d/django.conf" during parsing
+2018-03-24 05:35:36,021 INFO RPC interface 'supervisor' initialized
+2018-03-24 05:35:36,022 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-24 05:35:36,023 INFO RPC interface 'supervisor' initialized
+2018-03-24 05:35:36,023 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-03-24 05:35:36,024 INFO supervisord started with pid 1
+2018-03-24 05:35:37,029 INFO spawned: 'django' with pid 8
+2018-03-24 05:35:38,406 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-24 08:37:19,329 WARN received SIGTERM indicating exit request
+2018-03-24 08:37:19,329 INFO waiting for django to die
+2018-03-24 08:37:20,276 INFO stopped: django (exit status 0)
+2018-03-24 08:37:40,430 CRIT Supervisor running as root (no user in config file)
+2018-03-24 08:37:40,431 WARN For [program:django], redirect_stderr=true but stderr_logfile has also been set to a filename, the filename has been ignored
+2018-03-24 08:37:40,432 INFO Included extra file "/etc/supervisor/conf.d/django.conf" during parsing
+2018-03-24 08:37:40,447 INFO RPC interface 'supervisor' initialized
+2018-03-24 08:37:40,448 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-24 08:37:40,449 INFO RPC interface 'supervisor' initialized
+2018-03-24 08:37:40,451 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-03-24 08:37:40,452 INFO supervisord started with pid 1
+2018-03-24 08:37:41,457 INFO spawned: 'django' with pid 7
+2018-03-24 08:37:43,028 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-24 08:37:49,416 WARN received SIGTERM indicating exit request
+2018-03-24 08:37:49,418 INFO waiting for django to die
+2018-03-24 08:37:50,271 INFO stopped: django (exit status 0)
+2018-03-24 08:37:59,443 CRIT Supervisor running as root (no user in config file)
+2018-03-24 08:37:59,445 WARN For [program:django], redirect_stderr=true but stderr_logfile has also been set to a filename, the filename has been ignored
+2018-03-24 08:37:59,446 INFO Included extra file "/etc/supervisor/conf.d/django.conf" during parsing
+2018-03-24 08:37:59,484 INFO RPC interface 'supervisor' initialized
+2018-03-24 08:37:59,489 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-24 08:37:59,490 INFO RPC interface 'supervisor' initialized
+2018-03-24 08:37:59,491 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-03-24 08:37:59,491 INFO supervisord started with pid 1
+2018-03-24 08:38:00,494 INFO spawned: 'django' with pid 8
+2018-03-24 08:38:02,187 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-24 08:38:08,686 WARN received SIGTERM indicating exit request
+2018-03-24 08:38:08,686 INFO waiting for django to die
+2018-03-24 08:38:09,834 INFO stopped: django (exit status 0)
+2018-03-24 08:39:25,416 CRIT Supervisor running as root (no user in config file)
+2018-03-24 08:39:25,418 WARN For [program:django], redirect_stderr=true but stderr_logfile has also been set to a filename, the filename has been ignored
+2018-03-24 08:39:25,419 INFO Included extra file "/etc/supervisor/conf.d/django.conf" during parsing
+2018-03-24 08:39:25,442 INFO RPC interface 'supervisor' initialized
+2018-03-24 08:39:25,447 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-24 08:39:25,448 INFO RPC interface 'supervisor' initialized
+2018-03-24 08:39:25,448 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-03-24 08:39:25,449 INFO supervisord started with pid 1
+2018-03-24 08:39:26,455 INFO spawned: 'django' with pid 7
+2018-03-24 08:39:27,966 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-24 08:39:31,668 WARN received SIGTERM indicating exit request
+2018-03-24 08:39:31,669 INFO waiting for django to die
+2018-03-24 08:51:42,528 CRIT Supervisor running as root (no user in config file)
+2018-03-24 08:51:42,529 WARN For [program:django], redirect_stderr=true but stderr_logfile has also been set to a filename, the filename has been ignored
+2018-03-24 08:51:42,531 INFO Included extra file "/etc/supervisor/conf.d/django.conf" during parsing
+2018-03-24 08:51:42,555 INFO RPC interface 'supervisor' initialized
+2018-03-24 08:51:42,556 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-24 08:51:42,864 INFO RPC interface 'supervisor' initialized
+2018-03-24 08:51:42,864 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-03-24 08:51:42,864 INFO supervisord started with pid 1
+2018-03-24 08:51:43,868 INFO spawned: 'django' with pid 7
+2018-03-24 08:51:45,314 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-24 08:51:56,130 WARN received SIGTERM indicating exit request
+2018-03-24 08:51:56,133 INFO waiting for django to die
+2018-03-24 08:51:57,180 INFO stopped: django (exit status 0)
+2018-03-24 08:55:29,380 CRIT Supervisor running as root (no user in config file)
+2018-03-24 08:55:29,381 WARN For [program:django], redirect_stderr=true but stderr_logfile has also been set to a filename, the filename has been ignored
+2018-03-24 08:55:29,382 INFO Included extra file "/etc/supervisor/conf.d/django.conf" during parsing
+2018-03-24 08:55:29,401 INFO RPC interface 'supervisor' initialized
+2018-03-24 08:55:29,402 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-24 08:55:29,403 INFO RPC interface 'supervisor' initialized
+2018-03-24 08:55:29,404 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-03-24 08:55:29,405 INFO supervisord started with pid 1
+2018-03-24 08:55:30,408 INFO spawned: 'django' with pid 7
+2018-03-24 08:55:32,023 INFO success: django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

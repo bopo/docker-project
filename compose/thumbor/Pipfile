@@ -1,0 +1,18 @@
+[[source]]
+
+url = "http://mirrors.aliyun.com/pypi/simple/"
+verify_ssl = false
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+thumbor = "*"
+tc-aws = "*"
+opencv-python = "*"
+botocore = "1.4"
+tornado-botocore = "*"
